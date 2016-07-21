@@ -4,9 +4,9 @@
 """
 Copyright 2016 VMware, Inc.  All rights reserved.
 
-This file includes sample codes for configure VSAN cluster.
+This file includes sample code for configure VSAN cluster.
 
-Before running this script, please make sure you have a vc cluster and proper VSAN licence
+Before running this script, please make sure you have a vc cluster and proper VSAN license
 
 The code has been tested with the following configuration
 Testbed: One cluster with four hosts. Each host has one 50G SSD and two 100G SSD
